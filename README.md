@@ -1,6 +1,6 @@
 # parking
 
-![Entities](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/MityaIvanov/parking/master/src/Entities.puml)
+![Enities](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/MityaIvanov/parking/master/src/Enities.puml)
 
 ## Запросы
 
