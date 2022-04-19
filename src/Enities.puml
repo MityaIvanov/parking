@@ -1,0 +1,27 @@
+@startuml
+
+entity Car {
+-name
+-phone
+-plate
+}
+
+entity Space {
+-number
+}
+
+entity Event {
+-begDate
+-endDate
+-space
+-car
+-cost
+}
+
+Event "1" *-- "many" Space
+Event "1" *-- "many" Car
+
+note top of Space: Праковочное место
+note left of Event: Событие парковки
+
+@enduml
