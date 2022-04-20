@@ -6,7 +6,7 @@
 
 Использует:
 
-* Spring Boot
+* [Spring Boot](https://spring.io/projects/spring-boot)
 * Flyway (миграции)
 * H2 Database
 
