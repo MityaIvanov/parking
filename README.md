@@ -4,6 +4,12 @@
 
 ![Enities](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/MityaIvanov/parking/master/src/Enities.puml)
 
+Использует:
+
+* Spring Boot
+* Flyway (миграции)
+* H2 Database
+
 ## Проверка
 
 Проверка работы сервиса через swagger инспектор: https://inspector.swagger.io/builder
