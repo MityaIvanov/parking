@@ -7,8 +7,13 @@
 Использует:
 
 * [Spring Boot](https://spring.io/projects/spring-boot)
-* Flyway (миграции)
-* H2 Database
+* [Flyway (миграции)](https://flywaydb.org/)
+* [H2 Database](http://h2database.com/html/main.html)
+
+## Функции
+
+* Управление парковкой, методы: 
+* CRUD для сущностей Car, Space, Event
 
 ## Проверка
 
