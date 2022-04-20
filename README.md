@@ -1,6 +1,12 @@
 # parking
 
+Сервис по обслуживанию парковки
+
 ![Enities](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/MityaIvanov/parking/master/src/Enities.puml)
+
+## Проверка
+
+Проверка работы сервиса через swagger инспектор: https://inspector.swagger.io/builder
 
 ## Запросы
 
