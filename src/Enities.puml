@@ -23,5 +23,6 @@ Event "1" *-- "many" Car
 
 note top of Space: Праковочное место
 note left of Event: Событие парковки
+note left of Car: Машина (клиент)
 
 @enduml
